@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I’m Kashaf!
 
-<!--
-**kashafq/kashafq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student, just stepping into my 5th semester, and I like building fun and useful Python projects.  
+From simple scripts to complete mini-apps, I’m constantly learning and exploring new things.
 
-Here are some ideas to get you started:
+### 💻 Projects I'm Proud Of
+- 🎮 **ArcadeHub** – A Tkinter-based multi-game desktop app (Tic Tac Toe, Hangman, Maze Solver)
+- 📋 **Task Manager CLI** – Manage your daily tasks from the terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Tools
+Python • Tkinter • Streamlit • Git • CLI Apps • OOP • Data Visualization
+
+### 🔍 What I’m Learning Now
+- GUI improvements
+- APIs and deployment
+- Creating a personal portfolio 
+
+---
+
+💡 Recently doing the #ProSensiaInternship where I built projects, shared my work regularly, and polished my GitHub & LinkedIn.
+
