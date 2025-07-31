@@ -5,7 +5,7 @@ From simple scripts to complete mini-apps, I’m constantly learning and explori
 
 ### 💻 Projects I'm Proud Of
 - 🎮 **ArcadeHub** – A Tkinter-based multi-game desktop app (Tic Tac Toe, Hangman, Maze Solver)
-- 📋 **Task Manager CLI** – Manage your daily tasks from the terminal
+- 📋 **Task Manager** – Manage your daily tasks using Tkinter-based program
 
 ### 🛠 Skills & Tools
 Python • Tkinter • Streamlit • Git • CLI Apps • OOP • Data Visualization
